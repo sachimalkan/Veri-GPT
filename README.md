@@ -27,7 +27,6 @@ verigpt-hdl/
 ├── verigpt.py                  # Code generation wrapper
 ├── verify.py                   # Compile + simulate + parse
 ├── feedback_loop.py            # Loop orchestrator
-├── metrics.py                  # Latency, area, power estimation (TCL stubs)
 └── README.md
 ```
 
@@ -63,13 +62,6 @@ run_feedback_loop(
 - **Simulation Failure** → Add waveform diffing and assertion-based localization
 - **Functional Mismatch** → Re-prompt with previous inputs and expected output patterns
 - **Unstable Output** → Inject clock domain crossing templates and metastability constraints
-
-## Advanced Extensions (In Progress)
-- LLM confidence calibration based on token entropy
-- Verilog lint and static analysis hooks
-- Formal equivalence checking using Yosys + Symbiyosys
-- Co-simulation with Python behavioral model
-- Output waveforms + FSM state comparison via GTKWave
 
 ## Example Prompt (for `fft_accelerator.txt`)
 ```
