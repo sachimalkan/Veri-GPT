@@ -1,1 +1,0 @@
-Develop a dual-port RAM that allows simultaneous read/write operations on separate ports.

@@ -1,1 +1,0 @@
-Create a 4-stage pipelined 16-bit adder.

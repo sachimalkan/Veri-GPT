@@ -1,1 +1,0 @@
-Design a 4-bit ALU supporting ADD, SUB, AND, OR, XOR, and NOT operations with a select signal.

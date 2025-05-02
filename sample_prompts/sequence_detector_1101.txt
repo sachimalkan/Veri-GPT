@@ -1,1 +1,0 @@
-Design a FSM to detect the sequence '1101' in a serial bitstream.

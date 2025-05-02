@@ -1,1 +1,0 @@
-Develop a debounce module for a mechanical switch input using FSM.

@@ -1,1 +1,0 @@
-Design a traffic light controller FSM for a 4-way intersection with timers.

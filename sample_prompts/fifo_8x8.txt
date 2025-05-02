@@ -1,1 +1,0 @@
-Create an 8x8 FIFO with push, pop, full, and empty signals, implemented using circular buffering.
