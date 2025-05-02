@@ -1,0 +1,1 @@
+Implement a signed 8-bit multiplier using shift-and-add algorithm.

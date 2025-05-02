@@ -1,0 +1,1 @@
+Design a UART receiver with oversampling and start/stop bit validation.

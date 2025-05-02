@@ -1,0 +1,1 @@
+Design an 8-to-3 priority encoder that outputs the binary position of the highest priority input.

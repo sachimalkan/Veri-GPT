@@ -1,0 +1,1 @@
+Implement an 8-bit barrel shifter supporting left/right rotations and logical shifts.
